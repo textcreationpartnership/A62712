@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To that most lamentable and most incorrigible scribbler Bavius</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62712</idno>
+            <idno type="STC">Wing T1386A</idno>
+            <idno type="STC">ESTC R25820</idno>
+            <idno type="EEBO-CITATION">09146260</idno>
+            <idno type="OCLC">ocm 09146260</idno>
+            <idno type="VID">42521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To that most lamentable and most incorrigible scribbler Bavius</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Coffee-houses,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attack in verse on John Baber.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baber, John.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:42521:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="1" facs="tcp:42521:1"/>
+            <!-- PDF PAGE 31 -->
+            <head>TO THAT MOST LAMENTABLE AND MOST Incorrigible Scribler BAVIUS.</head>
+            <lg>
+               <l>UNlucky Wretch, whom no Advice can Warn</l>
+               <l>From Rhiming of thy Self to publick Scorn:</l>
+               <l>Curſt at thy Birth! And doom'd for all the reſt:</l>
+               <l>Of thy ſtrange Life, one everlaſting Jeſt.</l>
+               <l>What <hi>Dog-Star</hi> Reign'd at thy Nativity</l>
+               <l>And Damn'd thee to an Itch of Poetry:</l>
+               <l>Thou wert excus'd, couldſt thou but Write ſo well,</l>
+               <l>To Earn ten Groats for Dogrill at <hi>Snow-hill;</hi>
+               </l>
+               <l>Such little Helps thy Poverty does need;</l>
+               <l>This wou'd ſupply thee with oft wanted Bread:</l>
+               <l>And of thy <hi>Ghaſtly Phiz,</hi> and <hi>Loc'rum Jaws,</hi>
+               </l>
+               <l>'Tis Evident that <hi>Hungar</hi> is the Cauſe.</l>
+               <l>But fatal Wretch ſhou'dſt thou till <hi>Doomſday</hi> Write,</l>
+               <l>'Tis ſo below all aime at Senſe or Wit,</l>
+               <l>Thou cou'dſt not get one Friendly Shilling by't.</l>
+               <l>But this laſt Piece, to thy immortal Shame</l>
+               <l>A hardn'd <hi>Blockhead</hi> has confirm'd thy Name:</l>
+               <l>And for dull Nonſenſe Celebrates thy Fame.</l>
+            </lg>
+            <pb n="2" facs="tcp:42521:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <lg>
+               <l>Methinks I ſee the Poſture thou wert in</l>
+               <l>When this well maner'd Stuff thou didſt begin:</l>
+               <l>When to thy <hi>Pencive Garrat</hi> thou art come, <note place="margin">He lyes in a <hi>Garrat</hi> at <hi>Whitehall.</hi>
+                  </note>
+               </l>
+               <l>To do thy <hi>Neceſſary Jobbs</hi> at home:</l>
+               <l>By Sollitary Inch of Candle plac'd,</l>
+               <l>Thy <hi>Stoken</hi> neatly fitted to the <hi>Laſt;</hi>
+               </l>
+               <l>Thy Right-hand managing the <hi>Needle</hi> well, <note place="margin">Footing his <hi>Stockins.</hi>
+                  </note>
+               </l>
+               <l>Till Nonſenſe flows, then takeſt by turnes the <hi>Quill.</hi>
+               </l>
+               <lg>
+                  <l>Thy double Talent thou at once doſt ſhow,</l>
+                  <l>And Playſt the <hi>Poet</hi> and the <hi>Botcher</hi> too:</l>
+                  <l>So <hi>Taylor</hi> did at once both <hi>Rhym</hi> and <hi>Row.</hi> 
+                     <note place="margin">The <hi>Water Poet.</hi>
+                     </note>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Surely by Nature thou ſhouldſt have ſome Glimpſe,</l>
+               <l>Some glimering Notion of a ſort of Senſe:</l>
+               <l>But Poverty has debac'd and dull'd thy Strain,</l>
+               <l>And Emptineſs ſent Fumes into thy Brain;</l>
+               <l>This makes thee Rail in Language <hi>Billings-gate.</hi>
+               </l>
+               <l>A <hi>Wapping</hi> Sculler vents more Jeſts for Wit.</l>
+               <l>Where Senſe is wanting, truth ſhould be Expreſt,</l>
+               <l>That oft Atones for Wit and make ſome Jeſt:</l>
+               <l>But Lyes; Dull Lyes in Sawcy <hi>Fiſhwives</hi> ſtrain,</l>
+               <l>Sutes only ſuch a <hi>Flownder-Mouth</hi> as thine.</l>
+               <l>That Nautious Mouth, from Ear to Ear the extent,</l>
+               <l>Proper ſuch Beaſtly Fulſome Stuff to vent,</l>
+               <l>'Tis Plague enough thy wretched Form to ſee</l>
+               <l>Shock not our Ears with Wretched Poetry.</l>
+               <l>So far below a <hi>Gen-tle man</hi> to write,</l>
+               <l>Shows thee as poor in <hi>Manners</hi> as in <hi>Wit.</hi>
+               </l>
+               <l>Suppoſe I thee <hi>Pick-Pocket</hi> ſhou'd call,</l>
+               <l>Or ſay thy <hi>Mangy Carcaſs</hi> in <hi>Whitehall;</hi>
+               </l>
+               <pb n="3" facs="tcp:42521:2"/>
+               <!-- PDF PAGE 32 -->
+               <l>To thy Adjacent Neighbouring <hi>Garrateer,</hi>
+               </l>
+               <l>Were ſuch a Nuſance, as he cou'd not bear;</l>
+               <l>(Tho' vilely out of <hi>Linnen,</hi> as we ſee,</l>
+               <l>And Scanty <hi>Wardrob</hi> ly in <hi>Lumbardy,</hi>)</l>
+               <l>Or ſhou'd I call thee <hi>Cheat,</hi> or <hi>Rogue,</hi> and Swear</l>
+               <l>(Cauſe <hi>Shabby</hi>) thou a <hi>Bailiffs-Follower</hi> were:</l>
+               <l>Wou'd ſuch dull Railing paſs upon the Town</l>
+               <l>Be took for Wit, Jeſt, Satyr, or Lampoon?</l>
+               <lg>
+                  <l>To ſay a Woman's Old, and call her Whore,</l>
+                  <l>Oh Dire Revenge! Some ſuch dull Fops of yore,</l>
+                  <l>Have Treated thus thy Cheated Wife before.</l>
+               </lg>
+               <l>So vain a <hi>Coxcombe</hi> to upbraid my <hi>Rhiming</hi>
+               </l>
+               <l>Yet ſet down <hi>Self</hi> and <hi>Help</hi> for exact Chiming.</l>
+               <lg>
+                  <l>My <hi>Muſe</hi> diſdains the ſervitude of <hi>Rhimes,</hi>
+                  </l>
+                  <l>She Writes true Senſe and leaves to Fools the Chimes;</l>
+                  <l>Who have no other Motive for Damn'd Lines.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Why ſhou'd I think more Breeding to expect,</l>
+               <l>Than thoſe great Men thy <hi>Libel</hi> did Detect,</l>
+               <l>Thou'ſt yet not made me ſo <hi>Burleſque</hi> a thing,</l>
+               <l>As thy Vile Scandal repreſents the <hi>K</hi>—.</l>
+               <l>To think by thy Advice he wou'd be rul'd,</l>
+               <l>Was e're great Character ſo Redicul'd</l>
+               <l>And to compleat what thou before had ſaid,</l>
+               <l>Two large <hi>Long Ears</hi> thou'ſt fix'd upon his <hi>Head.</hi>
+               </l>
+               <l>As who to <hi>Bavius</hi> Politiques adheres;</l>
+               <l>Deſerv'd to be adorn'd with <hi>Midus</hi> Eares.</l>
+               <l>Who ſo Accurs'd of <hi>Heaven,</hi> and all his <hi>Stars,</hi>
+               </l>
+               <l>To've not one Friend to tell him how he Errs:</l>
+               <pb n="4" facs="tcp:42521:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 33 -->
+               <l>Or art thou grown Incorrigable of late,</l>
+               <l>And turn'd to Fifty, Old and Obſtinate.</l>
+            </lg>
+            <lg>
+               <l>Was there no <hi>Footman</hi> that could tell to Ten,</l>
+               <l>To mend thy for <hi>to's,</hi> and correct thy <hi>Pen.</hi>
+               </l>
+               <l>To common Senſe, thy Nonſenſe to Tranſlate,</l>
+               <l>And Reſcue thee from being Pointed at.</l>
+               <lg>
+                  <l>Or find out ſome Convenient <hi>Wyth</hi> to be,</l>
+                  <l>The kind Reſult of all thy Miſery:</l>
+                  <l>Before thoudſt had the Fate to Encounter me.</l>
+               </lg>
+               <l>Upon a meer ſuppoſe to rouſe my <hi>Muſe,</hi>
+               </l>
+               <l>From her ſoft Theames of Love to rough Abuſe.</l>
+               <l>Againſt my Nature, and below my Senſe,</l>
+               <l>Deſerves I ſhou'd Chaſtiſe thy Impudence:</l>
+               <l>But thou'rt a Tool, ſo far beneath my aim,</l>
+               <l>To touch but on thy <hi>Merry Andrew</hi> Name;</l>
+               <l>Gives thine Repute, and brings my <hi>Muſe</hi> a Sham<add>e</add>
+               </l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>I'll Swear a hundred ſince I this began,</l>
+                  <l>Cry'd—Damn the <hi>Buffoon,</hi> he's not worth thy Pen;</l>
+                  <l>The Averſion of thy Sex, and Scorn of Men.</l>
+               </lg>
+               <l>This did my Mind with kind Compaſſion fill,</l>
+               <l>And I in pitty drop'd my Angry <hi>Quill.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the <hi>Coffee-houſes,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
